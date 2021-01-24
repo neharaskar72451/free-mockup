@@ -6,6 +6,7 @@ Do you know a website that is not on this list? Send your PR or a issue.
 
 Name	Website	Type
 99effects Graphic	https://99effect.com	Menu Templates
+
 Burst	www.burst.shopify.com	Photos
 Diverse Device Hands	http://facebook.design/handskit	mockups
 Flat Icons	https://www.flaticon.com/	Icons PNG, SVG, EPS, PSD and BASE 64 formats
